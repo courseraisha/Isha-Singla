@@ -1,4 +1,4 @@
-# Isha-Singla
+
 <h1 align="center">Hi 👋, I'm Isha Singla</h1>
 <h3 align="center">Passionate Data Science Enthusiast | Proficient in R, Python, and SPSS | Eager to Contribute to Innovative Analytical Solutions</h3>
 
