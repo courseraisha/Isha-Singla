@@ -1,0 +1,41 @@
+Data Dictionary
+1.rest_bp (Resting blood pressure (mm Hg)) - Numeric continuous variable representing the resting blood pressure of the patient.
+
+2.chest_pain (Chest pain type) - Categorical variable with the following values:
+                                 0: Typical angina
+                                 1: Atypical angina
+                                 2: Non-anginal pain
+                                 3: Asymptomatic
+3.thalassemia (Thalassemia type) - Categorical variable with the following values:
+                                 0: Normal
+                                 1: Fixed defect
+                                 2: Reversible defect
+4.age (Age of the patient (years)) - Numeric continuous variable representing the age of the patient.
+5.fasting_bs (Fasting blood sugar > 120 mg/dl) - Categorical variable with the following values:
+                                 0: Fasting blood sugar <= 120 mg/dl
+                                 1: Fasting blood sugar > 120 mg/dl
+6.max_hr (Maximum heart rate achieved (beats per minute)) - Numeric continuous variable representing the maximum heart rate achieved during exercise.
+7.exercise_angina(Exercise-induced angina) - Categorical variable with the following values:
+                                 0: No exercise-induced angina
+                                 1: Exercise-induced angina
+8.gender (Gender of the patient) - Categorical variable with the following values:
+                                 0: Female
+                                 1: Male
+9.st_slope (ST segment slope) - Categorical variable with the following values:
+                                 0: Upsloping
+                                 1: Flat
+                                 2: Downsloping
+10.cholesterol (Serum cholesterol level (mg/dl)) - Numeric continuous variable representing the serum cholesterol level of the patient.
+11.st_depression (ST depression induced by exercise relative to rest) - Numeric continuous variable representing the ST depression induced by exercise relative to rest.
+12. rest_ecg (Resting electrocardiographic results) - Categorical variable with the following values:
+                                 0: Normal
+                                 1: Abnormality in ST-T wave
+                                 2: Probable or definite left ventricular hypertrophy
+13.num_vessels (Number of major vessels colored by fluoroscopy) - Categorical variable with the following values:
+                                 0: None
+                                 1: One
+                                 2: Two
+                                 3: Three
+14.diagnosis (Diagnosis of heart disease) - Categorical variable with the following values:
+                                 0: No heart disease (negative diagnosis)
+                                 1: Presence of heart disease (positive diagnosis)
